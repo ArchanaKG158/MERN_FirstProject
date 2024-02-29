@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Bird",
+    "des": "Birds chirping is so pleasant to listen in the morning.",
+    "img": "/img/bird.png"
+  },
+  {
+    "id": 2,
+    "title": "Flower",
+    "des": "Birds chirping is so pleasant to listen in the morning.",
+    "img": "/img/flower.png"
+  },
+  {
+    "id": 3,
+    "title": "Nature",
+    "des": "Birds chirping is so pleasant to listen in the morning.",
+    "img": "/img/nature.png"
+  },
+  {
+    "id": 4,
+    "title": "Rama",
+    "des": "Birds chirping is so pleasant to listen in the morning.",
+    "img": "/img/rama.png"
+  },
+  {
+    "id": 5,
+    "title": "Taj Mahal",
+    "des": "Birds chirping is so pleasant to listen in the morning.",
+    "img": "/img/taj mahal.png"
+  }
+]
